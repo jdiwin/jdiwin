@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 
+👋 Hi, I’m @yvette
+👀 The Creator of AutoChromeDetect
+more than 10 year working experience in software programming
 <!--
 **jdiwin/jdiwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
